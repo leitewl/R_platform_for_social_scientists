@@ -1,0 +1,17 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    toc:
+      before: |
+        <li><a href="./">SARP-EN</a></li>
+        <li><a href="https://bookdown.org/burak2358/SARP-TR/" target="blank">SARP-TR</a></li>
+      after: |
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
+    edit:
+      link: https://github.com/burakaydin/SARP-EN/tree/gh-pages/%s
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+bookdown::epub_book: default
