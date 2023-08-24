@@ -1,3 +1,2 @@
-# hello-world
-Learning github
-I am trying this out.
+Citatino:
+Aydin, B. Algina, J., Leite, W. L., Atilgan, H. (2017). An R Platform for Social Scientists 
