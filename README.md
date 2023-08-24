@@ -1,2 +1,2 @@
-Citation:
-Aydin, B. Algina, J., Leite, W. L., Atilgan, H. (2017). An R Platform for Social Scientists 
+# BAP2219
+R book for social scientists
